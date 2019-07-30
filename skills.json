@@ -1,0 +1,31 @@
+{
+    "skills": [
+        {
+            "id": "",
+            "msaAppId": "",
+            "name": "",
+            "endpoint": "",
+            "description": "",
+            "authenticationConnections": [],
+            "actions": [
+                {
+                    "id": "",
+                    "definition": {
+                        "description": "",
+                        "slots": [],
+                        "triggers": {
+                            "utteranceSources": [
+                                {
+                                    "locale": "en",
+                                    "source": [
+                                        ""
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

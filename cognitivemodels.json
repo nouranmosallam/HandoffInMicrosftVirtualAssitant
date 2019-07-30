@@ -1,0 +1,44 @@
+{
+  "defaultLocale": "en-us",
+  "cognitiveModels": {
+    "en": {
+      "languageModels": [
+        {
+          "appid": "",
+          "authoringkey": "",
+          "subscriptionkey": "",
+          "name": "",
+          "id": "",
+          "region": "",
+          "version": ""
+        }
+      ],
+      "dispatchModel": {
+        "appid": "",
+        "authoringkey": "",
+        "subscriptionkey": "",
+        "name": "",
+        "region": "",
+        "type": "dispatch"
+      },
+      "knowledgebases": [
+        {
+          "subscriptionKey": "",
+          "kbId": "",
+          "endpointKey": "",
+          "name": "",
+          "id": "",
+          "hostname": ""
+        },
+        {
+          "subscriptionKey": "",
+          "kbId": "",
+          "endpointKey": "",
+          "name": "",
+          "id": "",
+          "hostname": ""
+        }
+      ]
+    }
+  }
+}
